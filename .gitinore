@@ -1,0 +1,24 @@
+# Configurações pessoais
+.devia_config.json
+.devia_session
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
