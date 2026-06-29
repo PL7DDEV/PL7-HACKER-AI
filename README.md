@@ -1,4 +1,4 @@
-# 🤖 DEV IA - Assistente de Programação para Termux
+# 🤖 HACKER AI - Assistente de Programação para Termux
 
 Sistema completo de IA para programação rodando no Termux, com autenticação segura, controle de usuários e múltiplos modelos da Mistral AI.
 
@@ -22,6 +22,6 @@ Sistema completo de IA para programação rodando no Termux, com autenticação 
 
 ```bash
 pkg update && pkg install git -y
-git clone https://github.com/PL7DDEV/dev-ia.git
+git clone https://github.com/PL7DDEV/PL7-HACKER-AI.git 
 cd dev-ia
 bash install.sh 
